@@ -1,0 +1,78 @@
+.block-container {
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
+[href="#distance"] {
+    visibility: hidden;
+}
+
+#distance {
+    color: black;
+    font-size: 2.4vw;
+    font-style: italic;
+    text-align: right;
+    padding-bottom: 30px;
+}
+
+#stat_description {
+    color: black;
+    font-size: 1.2vw;
+    font-style: italic;
+}
+
+#stat {
+    color: black;
+    font-size: 1.2vw;
+    font-style: italic;
+}
+
+#space {
+    font-size: 0.0rem;
+    padding-top: 0;
+}
+
+.stNumberInput {
+    visibility: hidden;
+}
+
+#disclaimer {
+    font-size: 1rem;
+    color: grey;
+}
+
+/* 
+
+[data-testid="InputInstructions"] {
+    visibility: hidden;
+}
+
+[href="#colon"] {
+    visibility: hidden;
+}
+
+[title="View fullscreen"] {
+    visibility: hidden;
+}
+
+.st-af {
+    font-size: 2.35rem;
+    text-align: center;
+}
+
+[data-baseweb="select"] {
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+[data-baseweb="popover"] {
+    border: 3px solid red;
+}
+
+
+#distance-m {
+    text-align: right;
+    color: black;
+    font-size: 2rem;
+    font-style: italic;
+} */
