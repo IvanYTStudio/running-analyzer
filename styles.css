@@ -28,12 +28,14 @@ header[data-testid="stHeader"] {
     color: black;
     font-size: 1.2vw;
     font-style: italic;
+	pointer-events: none;
 }
 
 #stat {
     color: black;
     font-size: 1.2vw;
     font-style: italic;
+	pointer-events: none;
 }
 
 #space {
