@@ -148,7 +148,7 @@ with col_1:
         st.title(avg_km, anchor='stat')
         st.title(f'{avg_kmp:.2f} kph', anchor='stat')
     with col_1_2:
-        st.title('Per miles', anchor='stat_description')
+        st.title('Per mile', anchor='stat_description')
         st.title(avg_mile, anchor='stat')    
         st.title(f'{avg_mph:.2f} mph', anchor='stat')   
 
